@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src = "https://media.giphy.com/media/xT77XHUkpCtKbmtuH6/giphy.gif"></img>
+  <!-- <img src = "https://media.giphy.com/media/xT77XHUkpCtKbmtuH6/giphy.gif"></img> -->
+  
 </p>
 
 <!-- <h2>
